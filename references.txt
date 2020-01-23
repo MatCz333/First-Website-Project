@@ -1,0 +1,10 @@
+http://www.goodreads.com/author/show/1168793.Katharina_Gerlach //author's page I used for the About page//
+http://www.goodreads.com/book/show/33012127-troubled-times---time-troubles //description of the book I used//
+http://www.physics.org/article-questions.asp?id=131 //article I used in Explore page//
+http://wallpaperclicker.com/wallpaper/82631400/Old-Clock.aspx //wallpaper I used for the main page//
+https://www.canva.com //link to the site I made logo in//
+http://www.colorhexa.com //link to the site I selected colors used on my site//
+https://css-tricks.com/css3-clock/ //guide I used to make clock//
+http://danielstern.ca/range.css //slider generator I used to create one I used on the site//
+
+Book in pdf form is ready to be viewed in Assets/Appendix/TroubledTimes.pdf
